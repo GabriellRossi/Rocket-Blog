@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" width="30%">
+  <img src="./assets/img/logo.svg" width="30%">
 </p>
 
 ---
@@ -11,9 +11,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/desktop.png" width="100%">
-</p>
+---
 
 ## 🚀 Tecnologias
 
