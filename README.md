@@ -2,8 +2,7 @@
   <img src="./assets/img/logo.svg" width="30%">
 </p>
 
----
-
+<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
