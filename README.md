@@ -25,7 +25,7 @@ Um projeto de notícias do mundo da tecnologia.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/dGgV1qrfgbc52tgzFLMYX8/DD-%2F-RocketBlog-(Copy)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/dGgV1qrfgbc52tgzFLMYX8/DD-%2F-RocketBlog). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
