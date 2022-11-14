@@ -11,7 +11,6 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
----
 
 ## 🚀 Tecnologias
 
